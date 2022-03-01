@@ -1,1 +1,3 @@
-# https://faahu.github.io/Cafe
+# https://faahu.github.io/Cafe/
+
+Cafe website
